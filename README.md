@@ -1,0 +1,4 @@
+tradecoin
+=========
+
+Cryptocurrency coin
